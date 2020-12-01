@@ -1,2 +1,2 @@
-# D3RoSEdit
-A save editor for Diablo 3 RoS.
+# Diablo 3 RoS Editor
+Editor releases can be found under releases.
